@@ -1,4 +1,4 @@
-# NightwishMPVSample
+# NightwishMVPSample
 This sample covers the following topics: MVP with Intent states architecture, Portrait and landscape layout support, field validations, avoid multiple click events, rotation support to restore input data on device rotation, adding one attachment from the gallery, runtime gallery permission, drawables for rounded style buttons, styles-colors and dimens files. The code has been implemented following high quality code practices.
 
 # MVP
