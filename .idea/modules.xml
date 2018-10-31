@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NightwishMVPSample.iml" filepath="$PROJECT_DIR$/NightwishMVPSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NightwishMPVSample.iml" filepath="$PROJECT_DIR$/NightwishMPVSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
