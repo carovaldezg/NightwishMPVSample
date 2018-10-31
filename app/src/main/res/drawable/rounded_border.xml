@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:bottom="@dimen/rounded_button_bottom_shadow">
+        <shape>
+            <stroke
+                android:width="@dimen/rounded_border_stroke_width"
+                android:color="@color/black"/>
+            <corners android:radius="@dimen/rounded_corner_button_radius"/>
+        </shape>
+    </item>
+</layer-list>

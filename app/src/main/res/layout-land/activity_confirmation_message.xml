@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="1"
+    android:background="@color/alabaster">
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="false"
+        android:layout_weight="0.45"
+        android:src="@drawable/nightwishportrait"
+        android:background="@color/denim"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.55"
+        android:layout_marginBottom="@dimen/spacing_large_extra"
+        android:layout_marginEnd="@dimen/spacing_large_extra"
+        android:layout_marginStart="@dimen/spacing_large_extra"
+        android:layout_marginTop="@dimen/spacing_large_extra"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/message_sent"
+        android:textColor="@color/denim"
+        android:textSize="@dimen/font_huge" />
+
+</LinearLayout>

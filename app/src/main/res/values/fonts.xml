@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Toolbar -->
+    <style name="ToolbarTitleTextAppearance" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="fontPath">fonts/opensans_bold.ttf</item>
+        <item name="android:textColor">@color/alabaster</item>
+        <item name="android:textSize">@dimen/font_large</item>
+    </style>
+
+    <!-- OpenSans Regular -->
+    <style name="OpenSans" parent="android:TextAppearance">
+        <item name="fontPath">fonts/opensans_regular.ttf</item>
+    </style>
+
+    <style name="OpenSans.Medium">
+        <item name="android:textSize">@dimen/font_medium</item>
+    </style>
+
+    <style name="OpenSans.Medium.White">
+        <item name="android:textColor">@color/alabaster</item>
+    </style>
+
+    <style name="OpenSans.Medium.Caps">
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="OpenSans.Medium.NoCaps">
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="OpenSans.Medium.SantasGrey">
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+</resources>
