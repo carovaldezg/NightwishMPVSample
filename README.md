@@ -1,6 +1,8 @@
 # NightwishMVPSample
 This sample covers the following topics: MVP with Intent states architecture, Portrait and landscape layout support, field validations, avoid multiple click events, rotation support to restore input data on device rotation, adding one attachment from the gallery, runtime gallery permission, drawables for rounded style buttons, styles-colors and dimens files. The code has been implemented following high quality code practices.
 
+## Download it now from Google Playstore! https://play.google.com/store/apps/details?id=caro.helpdeskapp
+
 # MVP
 
 If you are not familiar with MVP, then this is a perfect short sample to start with! MVP is a well known pattern used for mobile development. All you need to know is this:
